@@ -1,0 +1,22 @@
+{
+  "name": "materialize",
+  "authors": [
+    "Vandenborne Stefan <stefan@illutek.be>"
+  ],
+  "description": "test css framework",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.99.0",
+    "font-awesome": "fontawesome#^4.7.0",
+    "meyer-reset": "*"
+  }
+}
